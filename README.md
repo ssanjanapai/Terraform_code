@@ -23,6 +23,7 @@ Few commands used to plan and run terraform:
 $terraform init
 $terraform plan
 $terraform apply
+$terraform destroy
 ```
 
 ## End result

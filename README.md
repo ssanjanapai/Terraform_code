@@ -9,10 +9,12 @@ Concepts like creating multiple instances,using lopps , creating multiple IAM us
 ## Terraform hierarchy
 
 I tried to understand the hierarchy in terraform files, I created files with:
+```
 -main.tf
 -terraform.tfvars
 -variables.tf
 -output.tf
+```
 Containing specific codes , I experimented with several conventions and understood how these work in a workspace.
 
 ## Terraform commands

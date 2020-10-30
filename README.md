@@ -19,11 +19,11 @@ Containing specific codes , I experimented with several conventions and understo
 
 Few commands used to plan and run terraform:
 
-'''
+```
 $terraform init
 $terraform plan
 $terraform apply
-'''
+```
 
 ## End result
 
